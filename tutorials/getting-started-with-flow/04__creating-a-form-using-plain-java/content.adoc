@@ -103,7 +103,7 @@ public void setCustomer(Customer customer) {
 
 * When the `customer` is:
 ** `null`, the form is hidden. 
-** is not `null`, the form is shown, and keyboard focus is placed on the *First name* input field to allow immediate typing.
+** not `null`, the form is shown, and keyboard focus is placed on the *First name* input field to allow immediate typing.
 
 == Implementing the Save and Delete Actions
 
